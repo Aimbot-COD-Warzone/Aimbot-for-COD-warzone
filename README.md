@@ -49,7 +49,7 @@
 
 ## 🖼 Preview
 
-![Warzone Aimbot Menu](https://battlelog.co/uploads/monthly_2025_05/20250513_GIF_BO6WZAbsolute.gif.963acc7d65524f5fa74a7bb0a0ecc80a.gif)  
+![Warzone Aimbot Menu](https://i.ytimg.com/vi/pLl5j-H9yrI/maxresdefault.jpg)  
 *Adjust aim settings easily for better targeting*
 
 
